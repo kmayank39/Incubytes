@@ -1,5 +1,6 @@
-#CI/CD : Continuous integration is a method were software developers can integrate there works, every integration is checked by an automated build to search the error. In Continuous Deployment final product functionalities are delivered using automatic deployment 
-There are mainly four stages of CI/CD pipeline:
+#CI/CD : Continuous integration is a method were software developers can integrate there works, every integration is checked by an automated build to search the error. In Continuous Deployment final product functionalities are delivered using automatic deployment.
+
+#There are mainly four stages of CI/CD pipeline:
   -Source(git push)
   -Build(compile)
   -Testing
